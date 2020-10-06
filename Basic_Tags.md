@@ -1,0 +1,11 @@
+# HTML Tags
+- Bold : <b>text</b>  
+- Italics: <i>text</i>
+- Underline text: <u>text</u>
+- Strikethrough text: <del>text</del>
+- Force extra space: &nbpc
+- Display Code: <code> </code>
+- Indicate defined term: <dfn> </dfn>
+- Emphasize text: <em> </em>
+- Define form: <form>text</form>
+- Headings: <h1> to <h6>
