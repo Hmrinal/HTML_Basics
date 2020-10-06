@@ -13,5 +13,4 @@
 - Style inline: ```<span> </span>```
 - Subscript text: ```<sub> </sub>```
 - Superscript text: ```<sup> </sup>```
-- Use SVG: ```<svg> </svg>```(SVG stands for Scalable Vector Graphics
-SVG is used to define graphics for the Web)
+- Use SVG: ```<svg> </svg>```(SVG stands for Scalable Vector Graphics, SVG is used to define graphics for the Web)
