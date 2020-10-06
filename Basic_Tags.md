@@ -8,4 +8,10 @@
 - Indicate defined term: <dfn> </dfn>
 - Emphasize text: <em> </em>
 - Define form: <form>text</form>
-- Headings: <h1> to <h6>
+- Headings: <h1> <h2> <h3> <h4> <h5> <h6>
+- Menu options: <select> </select>
+- Style inline: <span> </span>
+- Subscript text: <sub> </sub>
+- Superscript text: <sup> </sup>
+- Use SVG: <svg> </svg>(SVG stands for Scalable Vector Graphics
+SVG is used to define graphics for the Web)
