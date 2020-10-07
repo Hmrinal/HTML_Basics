@@ -11,3 +11,5 @@
 ## 3. Datalist
 - The tag specifies a list of pre-defined options for an input element
 - Used to provide extra options in dropdown list
+## 4. Figure
+- The tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
