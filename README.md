@@ -18,6 +18,12 @@ This is quite a refuted topic. So the answer is both yes and no, depending on th
 - The Web Browser reads the HTML, that gives details about the parts like headings, paras, links, etc
 - Describes the data on web browser, and browser then displays the data accordingly.
 
+#### Can be used
+- HTML is heavily used for creating pages that are displayed on the world wide web.
+- Every page contains a set of HTML tags including hyperlinks which are used for connecting to other pages
+- Every page that we witness, on the world wide web, is written using a version of HTML code.
+
+### Resources for HTML
 Top resources to get free html templates:
 - html5up.net
 - templated.co
