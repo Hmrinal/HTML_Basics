@@ -1,7 +1,7 @@
 # HTML_Basics
 
 ## Is HTML a programming language?
-This is quite a refuted topic. So the answer is both yes and no, depending on the context. Generally, a programming language allows you to describe some sort of process of doing something, whereas HTML is a way of adding context and structure to text.
+This is quite a refuted topic. So the answer is both yes and no, depending on the context. Generally, a programming language allows you to describe some sort of process of doing something, whereas HTML is a way of adding context and structure to text, using said to be the foundation of website.
 
 ### Programming Language:
 - They mainly have functional purposes
