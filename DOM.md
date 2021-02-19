@@ -22,3 +22,7 @@ A virtual DOM object is are presentation of a DOM object, like a light-weight co
 A virtual DOM object has the same properties as a real DOM object, but it lacks the real thing's power to directly change what's on the screen.
 
 #### How this helps:
+
+- When you render a JSX element, every single virtual DOM object gets updated.
+- This sounds incredibly inefficient, but the cost is insignificant because the virtual DOM can update so quickly.
+- Once the virtual DOM has updated, then React compares the virtual DOM with a virtual DOM snapshot that was taken right before the update.
