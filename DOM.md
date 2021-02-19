@@ -9,3 +9,7 @@ The DOM represents the document as nodes and objects.
 
 - Everything in a real DOM is a node.
 - The document itself is the main node -document node.
+- All HTML elements are element nodes.
+- All HTML attributes are attribute nodes.
+- Text inside HTML elements are text nodes.
+- Comments are comment nodes.
