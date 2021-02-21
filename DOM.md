@@ -16,7 +16,7 @@ The DOM represents the document as nodes and objects.
 
 ### React: The Virtual DOM
 
-In React, for every DOM object, there is a corresponding "virtual DOM object".
+In React, for every DOM object, there is a corresponding `virtual DOM object`.
 
 A virtual DOM object is are presentation of a DOM object, like a light-weight copy.
 A virtual DOM object has the same properties as a real DOM object, but it lacks the real thing's power to directly change what's on the screen.
