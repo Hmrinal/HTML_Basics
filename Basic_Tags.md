@@ -1,6 +1,8 @@
 # HTML Tags
+
 - Bold : `<b>text</b>`  
 - Italics: `<i>text</i>`
+- Links: normally `<a href></a>` in new tabs `<a href target="_blank"></a>` 
 - Underline text: `<u>text</u>`
 - Strikethrough text: `<del>text</del>`
 - Force extra space: `&nbpc`
@@ -14,3 +16,5 @@
 - Subscript text: `<sub> </sub>`
 - Superscript text: `<sup> </sup>`
 - Use SVG: `<svg> </svg>`(SVG stands for Scalable Vector Graphics, SVG is used to define graphics for the Web)
+- kbd : represents user input, like keyboard input or voice commands. 
+        `<p>Save this file by pressing<kbd>Ctrl + S</kbd></p>`
