@@ -18,3 +18,4 @@
 - Use SVG: `<svg> </svg>`(SVG stands for Scalable Vector Graphics, SVG is used to define graphics for the Web)
 - kbd : represents user input, like keyboard input or voice commands. 
         `<p>Save this file by pressing<kbd>Ctrl + S</kbd></p>`
+- Sample: output from a program `<p>OH No<samp>Error</samp></p>`
