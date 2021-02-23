@@ -1,16 +1,16 @@
 # HTML Tags
-- Bold : ```<b>text</b>```  
-- Italics: ```<i>text</i>```
-- Underline text: ```<u>text</u>```
-- Strikethrough text: ```<del>text</del>```
-- Force extra space: ```&nbpc```
-- Display Code: ```<code> </code>```
-- Indicate defined term: ```<dfn> </dfn>```
-- Emphasize text: ```<em> </em>```
-- Define form: ```<form>text</form>```
-- Headings: ```<h1> <h2> <h3> <h4> <h5> <h6>```
-- Menu options: ```<select> </select>```
-- Style inline: ```<span> </span>```
-- Subscript text: ```<sub> </sub>```
-- Superscript text: ```<sup> </sup>```
-- Use SVG: ```<svg> </svg>```(SVG stands for Scalable Vector Graphics, SVG is used to define graphics for the Web)
+- Bold : `<b>text</b>`  
+- Italics: `<i>text</i>`
+- Underline text: `<u>text</u>`
+- Strikethrough text: `<del>text</del>`
+- Force extra space: `&nbpc`
+- Display Code: `<code> </code>`
+- Indicate defined term: `<dfn> </dfn>`
+- Emphasize text: `<em> </em>`
+- Define form: `<form>text</form>`
+- Headings: `<h1> <h2> <h3> <h4> <h5> <h6>`
+- Menu options: `<select> </select>`
+- Style inline: `<span> </span>`
+- Subscript text: `<sub> </sub>`
+- Superscript text: `<sup> </sup>`
+- Use SVG: `<svg> </svg>`(SVG stands for Scalable Vector Graphics, SVG is used to define graphics for the Web)
