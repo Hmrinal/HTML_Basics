@@ -22,7 +22,8 @@ HTML is the foundation of any webpage, it's only wise to pay real good attention
 - The Web Browser reads the HTML, that gives details about the parts like headings, paras, links, etc
 - Describes the data on web browser, and browser then displays the data accordingly.
 
-#### Can be used
+#### Can be used:
+
 - HTML is heavily used for creating pages that are displayed on the world wide web.
 - Every page contains a set of HTML tags including hyperlinks which are used for connecting to other pages
 - Every page that we witness, on the world wide web, is written using a version of HTML code.
