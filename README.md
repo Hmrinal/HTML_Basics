@@ -18,7 +18,7 @@ HTML is the foundation of any webpage, it's only wise to pay real good attention
 
 ### Html can do:
 - Type of markup language
-- It encapsulates, or "marks up" data within HTML tags, which define the data and describe its purpose on the webpage.
+- It encapsulates, or `marks up` data within HTML tags, which define the data and describe its purpose on the webpage.
 - The Web Browser reads the HTML, that gives details about the parts like headings, paras, links, etc
 - Describes the data on web browser, and browser then displays the data accordingly.
 
