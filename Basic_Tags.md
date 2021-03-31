@@ -2,7 +2,7 @@
 
 - Bold : `<b>text</b>`  
 - Italics: `<i>text</i>`
-- Links: normally `<a href></a>` in new tabs `<a href target="_blank"></a>` 
+- Links: normally `<a href></a>` in new tabs `<a href target="_blank"> </a>` 
 - Underline text: `<u>text</u>`
 - Strikethrough text: `<del>text</del>`
 - Force extra space: `&nbpc`
@@ -18,4 +18,4 @@
 - Use SVG: `<svg> </svg>`(SVG stands for Scalable Vector Graphics, SVG is used to define graphics for the Web)
 - kbd : represents user input, like keyboard input or voice commands. 
         `<p>Save this file by pressing<kbd>Ctrl + S</kbd></p>`
-- Sample: output from a program `<p>OH No<samp>Error</samp></p>`
+- Sample: output from a program `<p>OH No<samp> Error </samp></p>`
