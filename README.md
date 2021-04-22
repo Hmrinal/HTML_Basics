@@ -39,3 +39,9 @@ Top resources to get free html templates:
 - uideck.com
 - freehtml5.co
 - mobirise.com
+
+### Some Disadvantages of HTML 
+
+- No Variables:  
+  It have no concept of `variables`. Variable help developers in many ways, like to shorten the code, make it easier and reduce the time consumption.
+
