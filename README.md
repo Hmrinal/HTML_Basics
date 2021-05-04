@@ -44,8 +44,10 @@ Top resources to get free html templates:
 
 - No Variables:  
   It have no concept of `variables`. Variable help developers in many ways, like to shorten the code, make it easier and reduce the time consumption.
+  
 - Components Issues:  
   Managing the same components in different pages within same website, the very first concept comes in the mind is `component`. But in HTML component concepts are     not available which actually makes code larger and complex for developers.
+  
 - Refresh Issues:  
   After making any change in code, browser has to be refreshed again and again which consumes lot of time of developers.
 
