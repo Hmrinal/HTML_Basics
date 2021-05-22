@@ -33,6 +33,7 @@ HTML is the foundation of any webpage, it's only wise to pay real good attention
 ### Resources for HTML
 
 Top resources to get free html templates:
+
 - html5up.net
 - templated.co
 - splawr.com
