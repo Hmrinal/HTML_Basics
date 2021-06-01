@@ -13,3 +13,5 @@
 - Used to provide extra options in dropdown list
 ## 4. Figure
 - The tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+## 5. FieldSet
+- The tag is used to group several controls as well as labels within a web form.
