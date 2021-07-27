@@ -6,7 +6,6 @@ This is quite a refuted topic. So the answer is both yes and no, depending on th
 
 HTML is the foundation of any webpage, it's only wise to pay real good attention to it. Semantic markup not only `helps in SEO` but also helps in accessibility.
 
-
 ### Programming Language:
 
 - They mainly have functional purposes
