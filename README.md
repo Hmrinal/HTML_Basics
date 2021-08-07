@@ -42,6 +42,7 @@ Top resources to get free html templates:
 
 ### Books
 - Design and build websites: by Jon Duckett
+- Head First HTML and CSS: by Elisabeth Robson & Eric Freeman
 
 ### Some Disadvantages of HTML 
 
