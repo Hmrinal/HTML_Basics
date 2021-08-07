@@ -40,6 +40,9 @@ Top resources to get free html templates:
 - freehtml5.co
 - mobirise.com
 
+### Books
+- Design and build websites: by Jon Duckett
+
 ### Some Disadvantages of HTML 
 
 - No Variables:  
